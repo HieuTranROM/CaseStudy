@@ -5,9 +5,9 @@ for (var i = 0; i < 59; i++) {
     seats.insertAdjacentHTML(
         "beforeend",
         '<input type="checkbox" name="tickets" id="s' +
-        (i + 2) +
+        (i) +
         '" /><label for="s' +
-        (i + 2) +
+        (i) +
         '" class="seat ' +
         booked +
         '"></label>'

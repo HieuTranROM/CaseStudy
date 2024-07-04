@@ -19,6 +19,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
             rel="stylesheet"
@@ -97,7 +98,9 @@
                 <span> <span class="count">0</span> Tickets </span>
                 <div class="amount">0</div>
             </div>
-            <button type="button">Book</button>
+            <a href="payment.jsp">
+                <button type="submit">Book</button>
+            </a>
         </div>
     </div>
 </div>

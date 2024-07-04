@@ -19,6 +19,7 @@
     <!-- APP CSS -->
     <link rel="stylesheet" href="css/grid.css">
     <link rel="stylesheet" href="css/app.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 
 <body>
@@ -58,7 +59,7 @@
         <div class="owl-carousel carousel-nav-center" id="hero-carousel">
             <!-- SLIDE ITEM -->
             <div class="hero-slide-item">
-                <img src="./images/black-banner.png" alt="">
+                <img src="images/black-banner.png" alt="">
                 <div class="overlay"></div>
                 <div class="hero-slide-item-content">
                     <div class="item-content-wraper">
@@ -96,7 +97,7 @@
             <!-- END SLIDE ITEM -->
             <!-- SLIDE ITEM -->
             <div class="hero-slide-item">
-                <img src="./images/supergirl-banner.jpg" alt="">
+                <img src="images/supergirl-banner.jpg" alt="">
                 <div class="overlay"></div>
                 <div class="hero-slide-item-content">
                     <div class="item-content-wraper">
@@ -134,7 +135,7 @@
             <!-- END SLIDE ITEM -->
             <!-- SLIDE ITEM -->
             <div class="hero-slide-item">
-                <img src="./images/wanda-banner.jpg" alt="">
+                <img src="images/wanda-banner.jpg" alt="">
                 <div class="overlay"></div>
                 <div class="hero-slide-item-content">
                     <div class="item-content-wraper">
@@ -178,7 +179,7 @@
         <div class="owl-carousel" id="top-movies-slide">
             <!-- MOVIE ITEM -->
             <div class="movie-item">
-                <img src="./images/series/supergirl.jpg" alt="">
+                <img src="images/series/supergirl.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Supergirl
@@ -204,7 +205,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <div class="movie-item">
-                <img src="./images/movies/captain-marvel.png" alt="">
+                <img src="images/movies/captain-marvel.png" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Captain Marvel
@@ -230,7 +231,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <div class="movie-item">
-                <img src="./images/cartoons/demon-slayer.jpg" alt="">
+                <img src="images/cartoons/demon-slayer.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Infinity Train
@@ -256,7 +257,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <div class="movie-item">
-                <img src="./images/movies/blood-shot.jpg" alt="">
+                <img src="images/movies/blood-shot.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Bloodshot
@@ -282,7 +283,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <div class="movie-item">
-                <img src="./images/series/wanda.png" alt="">
+                <img src="images/series/wanda.png" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Wanda Vision
@@ -308,7 +309,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <div class="movie-item">
-                <img src="./images/movies/bat-man.jpg" alt="">
+                <img src="images/movies/bat-man.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         The Dark Knight
@@ -347,7 +348,7 @@
         <div class="movies-slide carousel-nav-center owl-carousel">
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/movies/theatre-dead.jpg" alt="">
+                <img src="images/movies/theatre-dead.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Theatre of the dead
@@ -373,7 +374,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/movies/transformer.jpg" alt="">
+                <img src="images/movies/transformer.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Transformer
@@ -399,7 +400,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/movies/resident-evil.jpg" alt="">
+                <img src="images/movies/resident-evil.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Resident Evil
@@ -425,7 +426,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/movies/captain-marvel.png" alt="">
+                <img src="images/movies/captain-marvel.png" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Captain Marvel
@@ -451,7 +452,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/movies/hunter-killer.jpg" alt="">
+                <img src="images/movies/hunter-killer.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Hunter Killer
@@ -477,7 +478,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/movies/blood-shot.jpg" alt="">
+                <img src="images/movies/blood-shot.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Bloodshot
@@ -503,7 +504,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/movies/call.jpg" alt="">
+                <img src="images/movies/call.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Call
@@ -541,7 +542,7 @@
         <div class="movies-slide carousel-nav-center owl-carousel">
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/series/supergirl.jpg" alt="">
+                <img src="images/series/supergirl.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Supergirl
@@ -567,7 +568,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/series/stranger-thing.jpg" alt="">
+                <img src="images/series/stranger-thing.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Stranger Things
@@ -593,7 +594,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/series/star-trek.jpg" alt="">
+                <img src="images/series/star-trek.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Star Trek
@@ -619,7 +620,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/series/penthouses.jpg" alt="">
+                <img src="images/series/penthouses.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Penthouses
@@ -645,7 +646,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/series/mandalorian.jpg" alt="">
+                <img src="images/series/mandalorian.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Mandalorian
@@ -671,7 +672,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/series/the-falcon.webp" alt="">
+                <img src="images/series/the-falcon.webp" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         The Falcon And The Winter Soldier
@@ -697,7 +698,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/series/wanda.png" alt="">
+                <img src="images/series/wanda.png" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Wanda Vision
@@ -735,7 +736,7 @@
         <div class="movies-slide carousel-nav-center owl-carousel">
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/cartoons/demon-slayer.jpg" alt="">
+                <img src="images/cartoons/demon-slayer.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Demon Slayer
@@ -761,7 +762,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/cartoons/croods.jpg" alt="">
+                <img src="images/cartoons/croods.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Croods
@@ -787,7 +788,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/cartoons/dragon.jpg" alt="">
+                <img src="images/cartoons/dragon.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Dragonball
@@ -813,7 +814,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/cartoons/over-the-moon.jpg" alt="">
+                <img src="images/cartoons/over-the-moon.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Over The Moon
@@ -839,7 +840,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/cartoons/weathering.jpg" alt="">
+                <img src="images/cartoons/weathering.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Weathering With You
@@ -865,7 +866,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/cartoons/your-name.jpg" alt="">
+                <img src="images/cartoons/your-name.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Your Name
@@ -891,7 +892,7 @@
             <!-- END MOVIE ITEM -->
             <!-- MOVIE ITEM -->
             <a href="#" class="movie-item">
-                <img src="./images/cartoons/coco.jpg" alt="">
+                <img src="images/cartoons/coco.jpg" alt="">
                 <div class="movie-item-content">
                     <div class="movie-item-title">
                         Coco
@@ -923,7 +924,7 @@
 <!-- SPECIAL MOVIE SECTION -->
 <div class="section">
     <div class="hero-slide-item">
-        <img src="./images/transformer-banner.jpg" alt="">
+        <img src="images/transformer-banner.jpg" alt="">
         <div class="overlay"></div>
         <div class="hero-slide-item-content">
             <div class="item-content-wraper">
@@ -1112,12 +1113,12 @@
                             <ul class="footer-menu">
                                 <li>
                                     <a href="#">
-                                        <img src="./images/google-play.png" alt="">
+                                        <img src="images/google-play.png" alt="">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img src="./images/app-store.png" alt="">
+                                        <img src="images/app-store.png" alt="">
                                     </a>
                                 </li>
                             </ul>
